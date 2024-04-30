@@ -1,0 +1,146 @@
+.title {
+    font-size: 25px;
+}
+
+.bloks {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 100px;
+}
+.opredel {
+    font-size: 25px;
+    margin-right: 250px;
+}
+
+.ravin {
+    font-size: 25px;
+    margin-right: 100px;
+}
+.center {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tipes {
+    color: black;
+    text-decoration: none;
+}
+.tipes:hover {
+    color: aqua;
+    text-decoration: underline;
+}
+.opred {
+    font-size: 25px;
+    margin-right: 450px;
+}
+.s {
+    font-size: 30px;
+}
+.quad_img {
+    position: absolute;
+    left: 1400px;
+    top: 350px;
+    height:300px;
+}
+.quad_S_img {
+    position: absolute;
+    left: 1400px;
+    top: 950px;
+    height: 300px;
+}
+.quad_S_F_img {
+    position: absolute;
+    left: 800px;
+    top: 1200px;
+}
+
+
+.par_m {
+    position: absolute;
+    left: 1300px;
+    top: 480px;
+    height: 300px;
+}
+.par_S_1 {
+    position: absolute;
+    left: 1400px;
+    top: 1150px;
+    height: 250px;
+}
+.par_S_2 {
+    position: absolute;
+    left: 1400px;
+    top: 1450px;
+    height: 250px;
+}
+.par_S_3 {
+    position: absolute;
+    left: 1400px;
+    top: 1750px;
+    height: 250px;
+}
+
+
+.rmb {
+    position: absolute;
+    left: 1350px;
+    top: 250px;
+    height: 400px;
+    width: 400px;
+}
+
+
+.primoug {
+    position: absolute;
+    left: 1400px;
+    top: 250px;
+}
+
+
+.cvadrat {
+    position: absolute;
+    left: 1350px;
+    top: 250px;
+    height: 400px;
+    width: 400px;
+}
+
+
+
+.trap {
+    position: absolute;
+    left: 1300px;
+    top: 500px;
+    height: 300px;
+}
+.trap_S_1 {
+    position: absolute;
+    left: 1300px;
+    top: 1100px;
+    height: 250px
+}
+.trap_S_2 {
+    position: absolute;
+    left: 1300px;
+    top: 1400px;
+    height: 250px
+}
+.trap_sv {
+    position: absolute;
+    left: 1350px;
+    top: 1810px;
+    width: 400px;
+}
+.trap_prm {
+    position: absolute;
+    left: 1350px;
+    top: 2170px;
+    width:400px;
+}
+.trap_rb {
+    position: absolute;
+    left: 1350px;
+    top: 2600px;
+    width: 400px;
+}

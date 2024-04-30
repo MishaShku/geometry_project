@@ -1,0 +1,231 @@
+.center {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title {
+    font-size: 25px;
+}
+.bloks {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 100px;
+}
+.tipes {
+    color: black;
+    text-decoration: none;
+}
+.tipes:hover {
+    color: aqua;
+    text-decoration: underline
+    }
+.opred {
+    font-size: 25px;
+    margin-right: 450px;
+}
+.opredel {
+    font-size: 25px;
+    margin-right: 250px;
+}
+.ravin {
+    font-size: 25px;
+    margin-right: 100px;
+}
+.tr_img {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 1500px;
+    top: 510px;
+}
+.s {
+    font-size: 30px;
+    text-align:center;
+}
+.s1 {
+    position: absolute;
+    left: 850px;
+    top: 1630px;
+    height: 100px;
+}
+.s_img1 {
+    position: absolute;
+    left: 1400px;
+    top: 1450px;
+    height: 300px;
+    width: 300px;
+}
+.ricroll {
+    text-decoration: none;
+}
+.s2 {
+    position: absolute;
+    left: 850px;
+    top: 1950px;
+    height: 100px;
+}
+.s_img2 {
+    position: absolute;
+    left: 1400px;
+    top: 1780px;
+    height: 300px;
+    width: 300px;
+}
+.s3 {
+    position: absolute;
+    left: 830px;
+    top: 2300px;
+    height: 50px;
+}
+.s_img3 {
+    position: absolute;
+    left: 1400px;
+    top: 2100px;
+    height: 300px;
+    width: 300px;
+}
+.s_img4 {
+    position: absolute;
+    left: 850px;
+    top: 2600px;
+    height: 100px;
+}
+.s4 {
+    position: absolute;
+    left: 1400px;
+    top: 2450px;
+    height: 300px;
+    width: 300px;
+}
+.s_img5 {
+    position: absolute;
+    left: 850px;
+    top: 2950px;
+    height: 100px;
+}
+.s5 {
+    position: absolute;
+    left: 1400px;
+    top: 2780px;
+    height: 300px;
+    width: 300px;
+}
+.same_tr_1 {
+    position: absolute;
+    left: 1500px;
+    top: 3770px;
+    height: 300px;
+    width: 300px;
+}
+.same_tr_2 {
+    position: absolute;
+    left: 1500px;
+    top: 4200px;
+    height: 300px;
+    width: 300px;
+}
+
+.teor_sin {
+    position: absolute;
+    left: 800px;
+    top: 4800px;
+    height: 100px;
+}
+.teor_sin_ris {
+    position: absolute;
+    left: 1400px;
+    top: 4650px;
+    height: 300px;
+    width: 300px;
+}
+.teor_cos {
+    position: absolute;
+    left: 800px;
+    top: 5250px;
+    height: 50px;
+}
+.teor_cos_img {
+    position: absolute;
+    left: 1400px;
+    top: 5100px;
+    height: 300px;
+    width: 300px;
+}
+.teo_bis {
+    position: absolute;
+    left: 1350px;
+    top: 5550px;
+    height: 300px;
+}
+.teo_bis_form {
+    position: absolute;
+    left: 820px;
+    top: 5750px;
+    height: 100px;
+}
+.teor_med {
+    position: absolute;
+    left: 1400px;
+    top: 6000px;
+    height: 300px;
+    width: 300px;
+}
+.teor_med_for {
+    position: absolute;
+    left: 800px;
+    top: 6200px;
+    height: 100px;
+}
+.teor_pere_bis {
+    position: absolute;
+    left: 1400px;
+    top: 6400px;
+    height: 300px;
+    width: 300px;
+}
+
+
+.rb_tr {
+    position: absolute;
+    left: 1380px;
+    top: 230px;
+    height: 400px;
+}
+.teor_rb_gen {
+    position: absolute;
+    left: 1380px;
+    top: 670px;
+    height: 400px;
+}
+
+
+.pu_tr_img {
+    position: absolute;
+    left: 1370px;
+    top: 218px;
+}
+.pu_tr_vus {
+    position: absolute;
+    left: 1370px;
+    top: 850px;
+}
+.pu_tr_med {
+    position: absolute;
+    left: 1370px;
+    top: 1200px;
+}
+
+
+.rs_tr_img {
+    position: absolute;
+    left: 1350px;
+    top: 220px;
+    height: 220px;
+}
+.rs_rad {
+    position: absolute;
+    left: 800px;
+    top: 670px;
+    height: 100px;
+}
