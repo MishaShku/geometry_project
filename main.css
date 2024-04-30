@@ -1,0 +1,94 @@
+.«аголовок{
+    font-size: 40px;
+}
+.‘игуры {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman Georgia Garamond';
+    word-spacing: 100px;
+    
+}
+.center {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.‘иг—ыл {
+    color: black;
+    text-decoration: none;
+}
+.‘иг—ыл:hover {
+    color: aqua;
+    text-decoration: underline
+}
+.k2 {
+    position: absolute;
+    top:350px;
+    left:820px;
+}
+.k4 {
+    position: absolute;
+    top:370px;
+    left:1180px;
+}
+.k5 {
+    position: absolute;
+    top: 370px;
+    left:1570px;
+}
+.ќтрезки {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman Georgia Garamond';
+    word-spacing: 40px;
+}
+.ќт—ы {
+    color: black;
+    text-decoration: none;
+}
+.ќт—ы:hover {
+    color: aqua;
+    text-decoration: underline
+}
+.ќтр {
+    font-size: 35px;
+}
+.opred {
+    font-size: 25px;
+    margin-right: 300px;
+}
+.bis_img {
+    position: absolute;
+    left: 1350px;
+    top: 780px;
+    height: 350px;
+    width: 400px;
+}
+.med_img {
+    position: absolute;
+    left: 1400px;
+    top: 1200px;
+    height: 350px;
+}
+.vas_img {
+    position: absolute;
+    left: 1400px;
+    top: 1630px;
+    height: 350px;
+}
+.rast_img {
+    position: absolute;
+    left: 1400px;
+    top: 2050px;
+    height: 350px;
+}
+.ricroll {
+    text-decoration: none;
+}
+.sin {
+    position:absolute;
+    left: 1450px;
+    top: 2550px;
+    width: 300px;
+    height: 500px;
+}
